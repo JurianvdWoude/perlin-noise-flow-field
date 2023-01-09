@@ -14,7 +14,7 @@ To run this project, you will need a web browser that supports the canvas elemen
 ## Running the program
 
 To run the program, simply open the `index.html` file in your web browser. 
-You should see the Mandelbrot set displayed in the canvas. 
+You should see the Flow field displayed in the canvas. 
 
 ## Description
 
